@@ -1,2 +1,2 @@
 #!/bin/bash
-mkadir /tmp/my_first_directory
+mkadir my_first_directory/tmp/
