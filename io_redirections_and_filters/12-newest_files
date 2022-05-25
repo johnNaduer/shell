@@ -1,2 +1,2 @@
 #!/bin/bash
-find $1 -name "$2" -print0 | ls -l -t | head
+find . -type f -exec ls -lt \{\} \+ | head
