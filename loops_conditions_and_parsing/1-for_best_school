@@ -1,5 +1,4 @@
-#!/bin/bash
-clear
+#!/usr/bin/env bash
 VUELTA="Best School"
 for VUELTA in {0..9}
 do
