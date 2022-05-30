@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-VUELTA="Best School"
-for VUELTA in {0..9}
+#the loop is creating a 10 times repetition of the word best school
+i="Best School"
+for i in {0..9}
 do
-        echo "Best School"
+echo "Best School"
 done
