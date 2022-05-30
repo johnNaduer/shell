@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#This script is displaying 9 best school and one Hi y and Best school
 i=1
 while :
 do
