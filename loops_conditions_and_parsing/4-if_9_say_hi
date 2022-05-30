@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+i=1
+while :
+do
+   if [ $i -eq 10 ]; then
+           break
+   fi
+   echo "Best School"
+   ((i++))
+done
+echo Hi
+echo "Best School"
