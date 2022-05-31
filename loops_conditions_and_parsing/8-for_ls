@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #this scrip a for ls
-for list in*; do echo "$list" | cut -d "-" -f2-; done
+for list in *; do echo "$list" | cut -d "-" -f2-; done
 
