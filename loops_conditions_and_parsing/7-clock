@@ -8,7 +8,8 @@ do
     while [ $MINUTOS -lt 60 ]
     do 
      echo $MINUTOS
-      done
-      MINUTOS=1
+     ((MINUTOS++))    
+     done
+    MINUTOS=1
      ((i++))
    done
