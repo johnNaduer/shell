@@ -10,7 +10,7 @@ elif [ $i = 8 ]
 then
   echo "good luck"
 else
-  echo "best school"
+  echo "Best School"
 fi
  let i+=1
 done
