@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#this script is a displays the time
+i=0
+while [ $i -lt 13 ]
+do 
+   echo "Hour: $i"
+   MINUTOS=1
+    while [ $MINUTOS -lt 60 ]
+    do 
+     echo $MINUTOS
+      ((MINUTOS++))
+      done
+      MINUTES=1
+     ((i++))
+   done
